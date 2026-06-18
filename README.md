@@ -42,4 +42,8 @@ Founder of [SiMULACRA Studios](https://github.com/SiMULACRA-Studios)—an indepe
 
 [simulacracc@gmail.com](mailto:simulacracc@gmail.com)
 
+<br><br>
+
+<img src="assets/simulacra-emblem-footer.png" alt="SiMULACRA Studios emblem" width="180">
+
 </div>
